@@ -9,7 +9,7 @@
 > from my honest and diligent work.
 
 ### Skills & Abilities
-**Hard skills:** HTML, CSS, Git, Atlassian Jira, MySQL
+**Hard skills:** HTML, CSS, Git, Atlassian Jira, MySQL  
 **Soft skills:** Motivated, well-disciplined, communicative, team-oriented
 
 ### Languages
