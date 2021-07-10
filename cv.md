@@ -31,3 +31,15 @@
 
 2007-2013
 :   **GIS engineer / Land management engineer**, Republican Design Institute for Land Management Belgiprozem
+
+### Courses, internships
+* Web development. Quick start (course, educational platform Geekbrains) 
+* Web layout designer: Start (course, Wayup school)
+* Bootstrap 4 framework. Quick start (tutorial series, educational platform Webformyself)
+* Web development: HTML and CSS (course, educational platform Stepik)
+
+### Contact Information
+**Phone:** +37067244011  
+**Email:** alena.krasinskiene@gmail.com  
+[GitHub profile](https://github.com/KrasAlena)  
+[LinkedIn profile](http://linkedin.com/in/alenakrasinskiene)
